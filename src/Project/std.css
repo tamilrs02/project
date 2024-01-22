@@ -1,0 +1,87 @@
+.logcontainer {
+  display: flex;
+  height: 500px;
+  width: 800px;
+  border: 1px solid #12c2b9 ;
+  margin: auto;
+  margin-top: 90px;
+  box-shadow: 10px 15px 10px #12c2b9 ;
+}
+
+.logform {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  align-items: center;
+  background-color: whitesmoke;
+}
+
+.logform h2 {
+  font-size: 3rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  margin: 40px;
+}
+
+.logbox {
+  padding: 12px;
+  width: 65%;
+  margin: 15px;
+  border: 1px solid black;
+  outline: none;
+  border-radius: 20px;
+}
+
+.logform button {
+  padding: 12px 30px;
+  width: 40%;
+  margin-top: 40px;
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  border: none;
+  outline: none;
+  border-radius: 20px;
+}
+
+.sidepic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  background-color: #12c2b9 ;
+}
+
+.sidepic img {
+  width: 430px;
+  height: 500px;
+}
+
+@media (max-width: 600px) {
+  .logcontainer {
+    width: 100%;
+    flex-direction: column;
+    height: auto;
+  }
+
+  .logform,
+  .sidepic {
+    width: 100%;
+  }
+
+  .logbox {
+    width: 90%;
+  }
+
+  .logform h2 {
+    margin: 20px;
+  }
+
+  .logform button {
+    width: 60%;
+  }
+
+  .sidepic img {
+    width: 100%;
+    height: auto;
+  }
+}

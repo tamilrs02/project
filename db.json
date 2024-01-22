@@ -1,0 +1,400 @@
+{
+  "admin": [
+    {
+      "name": "Tamizh",
+      "age": "25",
+      "gender": "Male",
+      "DOB": "2003-09-02",
+      "experience": "2 Years",
+      "qualification": "Bsc Cs",
+      "major": "cs",
+      "role": "Asst Teacher",
+      "mobile": "9940721525",
+      "email": "adsfsf",
+      "address": "abc"
+    },
+    {
+      "name": "Srirsm",
+      "age": "21",
+      "gender": "Female",
+      "DOB": "2001-07-30",
+      "experience": "5 Years",
+      "qualification": "Bsc Cs",
+      "major": "cs",
+      "role": "Asst Teacher",
+      "mobile": "7894561230",
+      "email": "adsfsf",
+      "address": "abc"
+    },
+    {
+      "name": "prathap",
+      "age": "25",
+      "gender": "Male",
+      "DOB": "2003-06-20",
+      "experience": "2 Years",
+      "qualification": "Bsc Cs",
+      "major": "cs",
+      "role": "Asst Teacher",
+      "mobile": "9940721525",
+      "email": "adsfsf",
+      "address": "abc"
+    }
+  ],
+  "teacher": [
+    {
+      "name": "abzal",
+      "age": "20",
+      "dob": "1111-11-11",
+      "Gender": "male",
+      "Qualification": "maths",
+      "experiance": "6",
+      "phonenumber": "1122336655",
+      "Email": "kjgd@gas.com",
+      "Adreass": "aaa ssss dddd",
+      "class": "12",
+      "id": 6
+    },
+    {
+      "name": "salman",
+      "age": "23",
+      "dob": "2001-02-11",
+      "Gender": "male",
+      "Qualification": "mca",
+      "experiance": "1",
+      "phonenumber": "1234569875",
+      "Email": "alaal@jak.com",
+      "Adreass": "aaa sss dddd",
+      "class": "11",
+      "id": 7
+    }
+  ],
+  "student": [
+    {
+      "name": "sample1",
+      "sec": "12",
+      "age": "18",
+      "dob": "2001-01-01",
+      "mail": "sample1@gmail.com",
+      "bloodGroup": "o+",
+      "gender": "nonBinary",
+      "fname": "kumar",
+      "mname": "kumari",
+      "ocp": "driver",
+      "address": "123,acb street, tamilnadu",
+      "id": 1
+    },
+    {
+      "name": "sample2",
+      "sec": "12",
+      "age": "18",
+      "dob": "2001-02-02",
+      "mail": "sample2@gmail.com",
+      "bloodGroup": "0+",
+      "gender": "nonBinary",
+      "fname": "sam",
+      "mname": "sharmi",
+      "ocp": "work",
+      "address": "ffffffffffffffffffffffff",
+      "id": 2
+    },
+    {
+      "name": "aaa",
+      "sec": "zz",
+      "age": "2",
+      "dob": "1111-11-11",
+      "mail": "xbxsb",
+      "bloodGroup": "cb",
+      "gender": "female",
+      "fname": "sds",
+      "mname": "s",
+      "ocp": "sg",
+      "address": "sfs",
+      "id": 3
+    },
+    {
+      "name": "arun",
+      "sec": "12",
+      "age": "15",
+      "dob": "1111-11-11",
+      "mail": "qwe@asd.com",
+      "bloodgroup": "o+",
+      "gender": "nonBinary",
+      "fname": "abc",
+      "mname": "Abc",
+      "ocp": "Abc",
+      "adrss": " Abc",
+      "id": 4
+    },
+    {
+      "name": "Bala",
+      "sec": "12",
+      "age": "15",
+      "dob": "1111-11-11",
+      "mail": "Abc@Abc.com",
+      "bloodgroup": "o",
+      "gender": "female",
+      "fname": "Abc",
+      "mname": "Abc",
+      "ocp": "Abc",
+      "adrss": "Abc ",
+      "id": 5
+    },
+    {
+      "name": "chan",
+      "sec": "12",
+      "age": "12",
+      "dob": "1212-12-12",
+      "mail": "Abc@Abc.com",
+      "bloodgroup": "12",
+      "gender": "female",
+      "fname": "Abc",
+      "mname": "Abc",
+      "ocp": "Abc",
+      "adrss": "Abc ",
+      "id": 6
+    },
+    {
+      "name": "dhanush",
+      "sec": "12",
+      "age": "12",
+      "dob": "1212-12-12",
+      "mail": "123@Abc.com",
+      "bloodgroup": "12",
+      "gender": "nonBinary",
+      "fname": "Abc",
+      "mname": "Abc",
+      "ocp": "Abc",
+      "adrss": "Abc ",
+      "id": 7
+    },
+    {
+      "name": "fizu",
+      "sec": "12",
+      "age": "12",
+      "dob": "1212-12-12",
+      "mail": "1323@Abc.com",
+      "bloodgroup": "12",
+      "gender": "nonBinary",
+      "fname": "Abc",
+      "mname": "Abc",
+      "ocp": "Abc",
+      "adrss": "Abc ",
+      "id": 8
+    },
+    {
+      "name": "jana",
+      "sec": "12",
+      "age": "12",
+      "dob": "1212-12-12",
+      "mail": "123@gmail.com",
+      "bloodgroup": "o+",
+      "gender": "nonBinary",
+      "fname": "Abc",
+      "mname": "Abc",
+      "ocp": "Abc",
+      "adrss": "Abc ",
+      "id": 9
+    },
+    {
+      "name": "gani",
+      "sec": "12",
+      "age": "12",
+      "dob": "1212-12-12",
+      "mail": "qwer@gmail.com",
+      "bloodgroup": "a+",
+      "gender": "nonBinary",
+      "fname": "Abc",
+      "mname": "Abc",
+      "ocp": "Abc",
+      "adrss": "Abc ",
+      "id": 10
+    }
+  ],
+  "timetable": [
+    {
+      "name": "salman",
+      "periods": [
+        {
+          "today": "Sunday"
+        },
+        {
+          "one": "8th-English",
+          "two": "4th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "10th-English",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "6th-English",
+          "two": "5th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "9th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "7th-English",
+          "two": "Free",
+          "three": "Free",
+          "four": "3rd-Activity",
+          "five": "8th-English",
+          "six": "Free",
+          "seven": "Free",
+          "eight": "6th-English"
+        },
+        {
+          "one": "6th-English",
+          "two": "10th-English",
+          "three": "3rd-Activity",
+          "four": "1st-Activity",
+          "five": "Free",
+          "six": "Free",
+          "seven": "3rd-Activity",
+          "eight": "Free"
+        },
+        {
+          "one": "8th-English",
+          "two": "9th-English",
+          "three": "Free",
+          "four": "1st-Activity",
+          "five": "4th-English",
+          "six": "2nd-Activity",
+          "seven": "3rd-Activity",
+          "eight": "6th-English"
+        },
+        {
+          "today": "Sunday"
+        }
+      ]
+    }
+  ],
+  "Leave_req": [
+    {
+      "teachername": "kasi",
+      "date": "22/12/2023",
+      "subject": "i want leave on 23/12",
+      "approve": false,
+      "id": 1
+    },
+    {
+      "teachername": "arjun",
+      "date": "22/12/2023",
+      "subject": "enakuuu",
+      "approve": false,
+      "id": 2
+    },
+    {
+      "teachername": "kasi",
+      "date": "22/12/2023",
+      "subject": "i want leave on sunday",
+      "approve": true,
+      "id": 3
+    },
+    {
+      "Date": "1/9/2024",
+      "tachername": "salman",
+      "subject": "fever",
+      "approve": false,
+      "id": 4
+    },
+    {
+      "Date": "1/9/2024",
+      "tachername": "salman",
+      "subject": "fever",
+      "approve": false,
+      "id": 5
+    }
+  ],
+  "Attendance": [
+    {
+      "date": "4/12/2023",
+      "name": "Deepak",
+      "present": false
+    },
+    {
+      "date": "5/12/2023",
+      "name": "Deepak",
+      "present": true
+    },
+    {
+      "date": "6/12/2023",
+      "name": "Deepak",
+      "present": true
+    },
+    {
+      "date": "7/12/2023",
+      "name": "Deepak",
+      "present": true
+    },
+    {
+      "date": "8/12/2023",
+      "name": "Deepak",
+      "present": false
+    },
+    {
+      "date": "9/12/2023",
+      "name": "Deepak",
+      "present": false
+    },
+    {
+      "date": "11/12/2023",
+      "name": "Deepak",
+      "present": true
+    },
+    {
+      "date": "12/12/2023",
+      "name": "Deepak",
+      "present": true
+    },
+    {
+      "date": "13/12/2023",
+      "name": "Deepak",
+      "present": true
+    },
+    {
+      "date": "14/12/2023",
+      "name": "Deepak",
+      "present": true
+    },
+    {
+      "date": "15/12/2023",
+      "name": "Deepak",
+      "present": false
+    },
+    {
+      "date": "18/12/2023",
+      "name": "Deepak",
+      "present": true
+    },
+    {
+      "date": "19/12/2023",
+      "name": "Deepak",
+      "present": false
+    },
+    {
+      "date": "20/12/2023",
+      "name": "Deepak",
+      "present": true
+    },
+    {
+      "date": "21/12/2023",
+      "name": "Deepak",
+      "present": false
+    },
+    {
+      "date": "22/12/2023",
+      "name": "Deepak",
+      "present": true
+    },
+    {
+      "date": "23/12/2023",
+      "name": "rani",
+      "present": true
+    }
+  ]
+}

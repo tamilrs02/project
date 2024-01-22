@@ -1,0 +1,58 @@
+/* General styles for larger screens */
+.form {
+  width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: whitesmoke; /* Match the background color from the "teacherhead" CSS */
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+}
+
+.form h1 {
+  text-align: center;
+  color: rgba(0, 0, 0, 0.695); /* Match the text color from the "teacherlist" CSS */
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form h5 {
+  margin-bottom: 10px;
+  color: red; /* Match the error color from the "errorname" CSS */
+}
+
+.form input,
+.form select,
+.form textarea {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 2px solid rgba(0, 0, 0, 0.677); /* Match the border color from the "inputname" CSS */
+  border-radius: 6px;
+}
+
+.form select {
+  background-color: #fff;
+}
+
+.form button {
+  background-color: red; /* Adjusted to match the red color from the "submitbtn" CSS */
+  color: white;
+  padding: 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: x-large; /* Match the font size from the "inputname" CSS */
+}
+
+.form button:hover {
+  background-color: darkred; /* Adjusted to match the darkred hover color from the "submitbtn" CSS */
+}
+
+#myTextarea {
+  resize: vertical;
+  border: 2px solid rgba(0, 0, 0, 0.677); /* Match the border color from the "inputname" CSS */
+}
